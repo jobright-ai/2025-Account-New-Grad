@@ -1,5 +1,5 @@
 
-# Daily Intern Jobs in Accounting%20and%20Finance by Jobright.ai
+# Daily Intern Jobs in Accounting and Finance by Jobright.ai
 
 
 
@@ -506,7 +506,6 @@ For a complete list, click the following sortable link below:
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Acquisitions Associate](https://jobright-internal.com/jobs/info/66abc0e672a57fbf341451c5?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, NY | On Site | Aug 23 |
 | **[Sunstate Equipment Co., LLC](https://www.sunstateequip.com)** | **[Account Receivable Representative B2B](https://jobright-internal.com/jobs/info/66795f4edd14b36e4d97aee7?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Phoenix, AZ | On Site | Aug 23 |
 | **[Haley & Aldrich](http://www.haleyaldrich.com)** | **[Staff Project Accountant 1](https://jobright-internal.com/jobs/info/66ac19e6f7b93a3fc7576762?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Walnut Creek, CA | On Site | Aug 23 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Analyst, Asset Management](https://jobright-internal.com/jobs/info/66ae78c67e9a85f35e30e11b?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Plymouth Meeting, PA | On Site | Aug 23 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Experienced Associate - Asset Management](https://jobright-internal.com/jobs/info/669a5725e5e22a61c3ec9622?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Houston, TX | On Site | Aug 23 |
 | **[Haley & Aldrich](http://www.haleyaldrich.com)** | **[Staff Project Accountant 1](https://jobright-internal.com/jobs/info/66ac461f495288b4a21cfbf2?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Seattle, WA | On Site | Aug 23 |
 | **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Underwriting Assistant](https://jobright-internal.com/jobs/info/66ad1fc4bfd6d682d163d63f?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Stockton, CA | Hybrid | Aug 23 |
@@ -522,6 +521,7 @@ For a complete list, click the following sortable link below:
 | **[K&L Gates LLP](http://www.klgates.com/)** | **[Accounts Payable Assistant](https://jobright-internal.com/jobs/info/66abf9947ec42bfa61475ecd?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 23 |
 | **[RSM](http://www.rsmus.com/)** | **[Audit Associate - Fall 2025](https://jobright-internal.com/jobs/info/66ac9454b3297a4e03db826e?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | St Louis, MO | Hybrid | Aug 23 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Field Finance Associate](https://jobright-internal.com/jobs/info/66ac16008eef8b4ed4d8114b?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Purchase, NY | On Site | Aug 23 |
+| **[SitusAMC](https://www.situsamc.com)** | **[Analyst, Asset Management](https://jobright-internal.com/jobs/info/66ac20afed5fab398c720fef?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Plymouth Meeting, PA | On Site | Aug 23 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Capital Solutions Senior Analyst/Junior Associate](https://jobright-internal.com/jobs/info/66ac1d25350d2169736bb8d0?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, NY | On Site | Aug 23 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Financial Aid Advisor Coordinator](https://jobright-internal.com/jobs/info/6690bf92555345cb3108400e?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Evanston, IL | Hybrid | Aug 23 |
 | **[Sumitomo Mitsui Banking](https://www.smbcgroup.com/americas)** | **[Analyst, Balance Sheet and Capital Management](https://jobright-internal.com/jobs/info/66aca45662c6fe33b47f9695?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, NY | Hybrid | Aug 23 |
@@ -824,8 +824,8 @@ For a complete list, click the following sortable link below:
 | **[Graybar](http://www.graybar.com)** | **[Financial Assistant](https://jobright-internal.com/jobs/info/66a91ad5ff46fced207014d9?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Phoenix, AZ | On Site | Aug 22 |
 | **[Nestle Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Associate Auditor](https://jobright-internal.com/jobs/info/66aaba9ea53a46503930acef?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Arlington, VA | On Site | Aug 22 |
 | **[RSM](http://www.rsmus.com/)** | **[Federal Tax Associate](https://jobright-internal.com/jobs/info/66b3a78723af7c9350fc0f2b?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Coral Gables, FL | Hybrid | Aug 22 |
-| ↳ | **[Federal Tax Associate](https://jobright-internal.com/jobs/info/66aadac4484bac8dba9c34d5?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Houston, TX | Hybrid | Aug 22 |
 | ↳ | **[Audit Associate - Fall 2026](https://jobright-internal.com/jobs/info/66aac6321ad7fcf4d87d2f88?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Cleveland, OH | Hybrid | Aug 22 |
+| ↳ | **[Federal Tax Associate](https://jobright-internal.com/jobs/info/66aadac4484bac8dba9c34d5?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Houston, TX | Hybrid | Aug 22 |
 | ↳ | **[State and Local Tax Associate](https://jobright-internal.com/jobs/info/66aac3994d0e6e56be6bff3a?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Indianapolis, IN | Hybrid | Aug 22 |
 | ↳ | **[Federal Tax Associate](https://jobright-internal.com/jobs/info/66ab0b686d0826a127224acd?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Mishawaka, IN | Hybrid | Aug 22 |
 | ↳ | **[Federal Tax Associate](https://jobright-internal.com/jobs/info/66c7060547d1c02cc5043586?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | San Diego, CA | Hybrid | Aug 22 |
@@ -1454,5 +1454,4 @@ For a complete list, click the following sortable link below:
 | **[Citibank](https://www.citi.com)** | **[Cash & Trade Processing Associate Analyst](https://jobright-internal.com/jobs/info/66c4e9844bea827b3374c08f?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Getzville New York United States | Hybrid | Aug 19 |
 | ↳ | **[Cash & Trade Processing Associate Analyst](https://jobright-internal.com/jobs/info/66c546afb8ec8eecf4818247?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Tampa Florida United States | Hybrid | Aug 19 |
 | ↳ | **[Cash & Trade Proc Int Assoc Analyst](https://jobright-internal.com/jobs/info/66c546afb8ec8eecf4818277?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Getzville New York United States | Hybrid | Aug 19 |
-| **[Catholic Health Initiatives](https://www.catholichealthinitiatives.org/)** | **[Charge Capture Analyst](https://jobright-internal.com/jobs/info/66c3e303a7c48d391e1c8941?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Bismarck, ND | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
