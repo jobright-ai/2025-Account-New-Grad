@@ -118,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Colliers](http://www.colliers.com)** | **[Valuation Associate](https://jobright.ai/jobs/info/67886c45f7e61f59aaf2c383?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Oakland, CA | Hybrid | Aug 03 |
 | **[First Command Financial Services, Inc.](http://www.firstcommand.com)** | **[Financial Advisor](https://jobright.ai/jobs/info/68146474b09147c6ef257da6?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Newport News, VA | On Site | Aug 03 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[Global Markets - Global Currency & Emerging Markets Strat, New York, NY](https://jobright.ai/jobs/info/67c61be8f27291ca81b603c8?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, NY | On Site | Aug 02 |
-| **[BridgeBio](http://bridgebio.com)** | **[Associate/Sr. Associate, Strategic Finance](https://jobright.ai/jobs/info/67fd556e098d21768bec40c3?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
