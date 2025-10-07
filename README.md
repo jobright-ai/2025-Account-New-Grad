@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Edelman Financial Engines](https://www.edelmanfinancialengines.com/)** | **[Inbound Investment Advisor](https://jobright.ai/jobs/info/68cce04e5954791a1d70045c?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | United States | Remote | Oct 07 |
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en/)** | **[Accountant](https://jobright.ai/jobs/info/6890419d4c7e851b90ac553b?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Kentucky, United States | Hybrid | Oct 07 |
 | **[PENNYMAC](https://www.pennymac.com)** | **[Default Loan Counselor I](https://jobright.ai/jobs/info/68c8dda0f9c6ff7aedf136f4?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Fort Worth, TX | On Site | Oct 07 |
 | **[Mizuho](https://www.mizuhogroup.com)** | **[Associate, Enterprise Risk - Historical Market Data](https://jobright.ai/jobs/info/68cc83fa128dc347fd92613a?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, NY | On Site | Oct 07 |
@@ -141,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Beazley](http://www.beazley.com)** | **[Underwriting Assistant - Cyber](https://jobright.ai/jobs/info/68c45ed7e396b25cb5c67602?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Denver, CO | On Site | Oct 04 |
 | **[Brown Advisory](http://www.brownadvisory.com)** | **[Addepar Operations Analyst](https://jobright.ai/jobs/info/68cd4af7e23def7af55b7de6?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Washington, DC | On Site | Oct 04 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Entry Level Assurance Associate (Rancho Cucamonga, CA)](https://jobright.ai/jobs/info/68a7666f33dd7158bbca6b47?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Rancho Cucamonga, CA | Hybrid | Oct 04 |
+| **[Duluth Trading Company](http://www.duluthtrading.com)** | **[Financial Analyst](https://jobright.ai/jobs/info/68cfba13fb49c96ca6eab0fc?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Mount Horeb, WI | On Site | Oct 04 |
 | **[Rabobank](http://www.rabobank.com)** | **[Associate, Corporate Finance](https://jobright.ai/jobs/info/68cd4c12e23def7af55b7f76?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 04 |
 | **[The Post Oak Hotel at Uptown Houston](http://www.thepostoak.com/)** | **[Accounting Clerk](https://jobright.ai/jobs/info/68d2101fa54edb3bf3e19321?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Houston, TX | On Site | Oct 04 |
 | **[HDR](http://www.hdrinc.com)** | **[Project Accountant](https://jobright.ai/jobs/info/68b58cdebc187f64e1be72be?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Columbus, OH | On Site | Oct 04 |
@@ -176,7 +178,6 @@ For a complete list, click the following sortable link below:
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Incentive Analyst I – Commercial](https://jobright.ai/jobs/info/68d34742f0d9af73038e0abb?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Kansas City, MO | On Site | Oct 03 |
 | **[SOCOTEC USA](https://www.socotec.us/)** | **[Billing Specialist](https://jobright.ai/jobs/info/68a62726758f2e4ac3fe32ea?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Coral Gables, FL | On Site | Oct 03 |
 | **[Symetra](http://www.symetra.com)** | **[Trading Assistant, High Yield & Bank Loans - Hybrid](https://jobright.ai/jobs/info/68ca372ef61c922772a75091?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Farmington, CT | Hybrid | Oct 03 |
-| **[Ascension Living](https://www.ascensionliving.org)** | **[Billing Representative](https://jobright.ai/jobs/info/68db1e590dffed6f83d2c947?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Orland Park, IL | On Site | Oct 03 |
 | **[Edward Jones](https://www.edwardjones.com)** | **[Financial Advisor](https://jobright.ai/jobs/info/68c3adb980e77b1fa6fcbfd2?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Roseville, CA | On Site | Oct 03 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[State Tax Staff Accountant (Associate)](https://jobright.ai/jobs/info/68cd4261e23def7af55b769c?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Downers Grove, IL | Hybrid | Oct 03 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Billing and Payment Coordinator](https://jobright.ai/jobs/info/68cc76ef7342c7623ae6540c?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Tigard, OR | On Site | Oct 03 |
@@ -376,7 +377,4 @@ For a complete list, click the following sortable link below:
 | **[Upstart](https://upstart.com/about)** | **[Investor Services Associate](https://jobright.ai/jobs/info/684c606c9a71d9b7612432df?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | United States | On Site | Sep 30 |
 | **[Ancestry](http://ancestry.com)** | **[Financial Analyst](https://jobright.ai/jobs/info/68cbe202ba798c1a501d5ccd?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Lehi, UT | On Site | Sep 30 |
 | **[ADP](http://www.adp.com)** | **[Tax Implementation Consultant I](https://jobright.ai/jobs/info/68cc25ca16d00d2beeb1abd2?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Tempe, AZ | On Site | Sep 30 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Associate Treasury Analyst (Summer 2026)](https://jobright.ai/jobs/info/68d63cee894705799a2e9597?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Seattle, WA | On Site | Sep 30 |
-| **[Carrington Holding Company, LLC](http://carringtonhc.com/)** | **[Early Stage Collections Specialist, I (11am to 8pm EST shift)](https://jobright.ai/jobs/info/68bf87b0702aa35207aa726e?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Westfield, IN | Hybrid | Sep 30 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Associate Treasury Analyst (Summer 2026)](https://jobright.ai/jobs/info/68d654804736ff202fdd29a5?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Portsmouth, VA | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
