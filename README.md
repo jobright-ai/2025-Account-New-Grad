@@ -242,5 +242,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Tax Solutions Group Entry Level Staff](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf3c?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Auburn Hills, MI | On Site | Oct 12 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Associate - Summer 2026 (St. Louis)](https://jobright.ai/jobs/info/68dadd9e6df7b8311bb135ef?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | St Louis, MO | On Site | Oct 12 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit or Tax Entry Level Staff](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206c9?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Auburn Hills, MI | On Site | Oct 12 |
-| ↳ | **[2027 International Tax Services Entry Level Staff](https://jobright.ai/jobs/info/68cbafd99e3a822f5d24a674?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Columbus, OH | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
