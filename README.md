@@ -169,7 +169,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Tax Solutions Group Entry Level Staff](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf41?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Ann Arbor, MI | On Site | Oct 14 |
 | **[First Command Financial Services, Inc.](http://www.firstcommand.com)** | **[Financial Advisor](https://jobright.ai/jobs/info/67745db1d7015ba69950c4b4?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Lawton, OK | On Site | Oct 13 |
 | ↳ | **[Financial Advisor](https://jobright.ai/jobs/info/680a0d40548edbe0234ea18c?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Oklahoma City, OK | On Site | Oct 13 |
-| ↳ | **[Financial Advisor](https://jobright.ai/jobs/info/67731d10e647b348c3f1da6e?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Charlotte, NC | On Site | Oct 13 |
-| **[Houlihan Lokey](https://www.hl.com)** | **[Experienced Financial Analyst, Portfolio Valuation and Fund Advisory Services - Multiple Locations](https://jobright.ai/jobs/info/68bd0956ae79610dacdddaa9?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Dallas, TX | On Site | Oct 13 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2027 International Tax Services Entry Level Staff](https://jobright.ai/jobs/info/6840e82a0f1f4815da220690?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Ann Arbor, MI | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
