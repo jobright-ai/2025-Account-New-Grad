@@ -135,6 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Lument](https://www.lument.com)** | **[Analyst, Production Analytical Support](https://jobright.ai/jobs/info/68b10d596fab621da7b099d0?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Columbus, OH | Hybrid | Oct 14 |
 | **[ORIX Corporation USA](http://www.orix.com/orix-finance/venture-finance.aspx)** | **[Analyst, Production Analytical Support](https://jobright.ai/jobs/info/68ceb04a846f0b04af67c562?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Columbus, OH | Hybrid | Oct 14 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Associate / 2027](https://jobright.ai/jobs/info/68d17425cece431f8b583f5b?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Melville, NY | On Site | Oct 14 |
-| **[Formation Bio](https://www.formation.bio/)** | **[Staff Accountant](https://jobright.ai/jobs/info/68d1f55117554c2d9eee19d3?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, NY | Hybrid | Oct 14 |
-| **[Luminis Health](http://www.luminishealth.org)** | **[Finance Team Member](https://jobright.ai/jobs/info/68ce5572fb49c96ca6e9f233?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Annapolis, MD | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
