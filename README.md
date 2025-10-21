@@ -128,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[EisnerAmper](http://www.eisneramper.com)** | **[Portfolio Accountant](https://jobright.ai/jobs/info/67d33573e65c012957f778e3?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, United States | On Site | Oct 14 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Capital & Data Risk / IM Risk (Risk Management) : Job Level - Associate](https://jobright.ai/jobs/info/68d1a94a8c62e63bc7fce29a?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, NY | On Site | Oct 14 |
 | **[Aspire Bakeries](https://www.aspirebakeries.com/)** | **[Procurement Analyst](https://jobright.ai/jobs/info/68d6fdc6d3fe025a3015da7d?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 14 |
-| **[Lument](https://www.lument.com)** | **[Analyst, Production Analytical Support](https://jobright.ai/jobs/info/68b1080404557a6c207b980d?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Chicago, IL | Hybrid | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
