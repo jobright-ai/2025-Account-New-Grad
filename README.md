@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corpay](https://payments.corpay.com)** | **[Billing Specialist](https://jobright.ai/jobs/info/67bf502b1d33b35bbd68646c?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Schaumburg, IL | On Site | Oct 21 |
+| **[Edward Jones](https://www.edwardjones.com)** | **[Financial Advisor](https://jobright.ai/jobs/info/68d748a0e5293e3538af388a?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Westminster, CO | On Site | Oct 18 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[PT Bookkeeper](https://jobright.ai/jobs/info/68d7a12b295f8e37655df9b8?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Boothbay Harbor, ME | On Site | Oct 18 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Accountant I-II](https://jobright.ai/jobs/info/68b9db516105227d118985de?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Pierre, SD | On Site | Oct 17 |
 | **[Edward Jones](https://www.edwardjones.com)** | **[Financial Advisor](https://jobright.ai/jobs/info/68d6513b894705799a2eab52?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Minneapolis, MN | On Site | Oct 17 |
@@ -112,14 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Associate, Disputes and Investigations (Forensic Valuation)](https://jobright.ai/jobs/info/689a2ead83d13d1f5b696a6f?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 15 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Associate, Valuation & Capital Market Analysis, Complex Financial Instruments - Fall 2026 (Atlanta, Chicago, Los Angeles, New York, San Francisco)](https://jobright.ai/jobs/info/68d358d917554c2d9eef004c?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 15 |
 | **[Casey's](https://www.caseys.com/)** | **[Fleet Accounting Specialist](https://jobright.ai/jobs/info/68d2e6198c62e63bc7fdb5c8?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Ankeny, IA | On Site | Oct 15 |
-| **[Oshkosh Defense](https://oshkoshdefense.com)** | **[Finance Analyst Associate](https://jobright.ai/jobs/info/68cd5a141ad6b16f028984a4?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Oshkosh, WI | On Site | Oct 15 |
-| **[First Command Financial Services, Inc.](http://www.firstcommand.com)** | **[Financial Advisor](https://jobright.ai/jobs/info/68ced84adbd9fb154ede3278?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Tyrone, GA | On Site | Oct 15 |
-| ↳ | **[Financial Advisor](https://jobright.ai/jobs/info/68217275d0d4bc1a7bbee96f?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Virginia Beach, VA | On Site | Oct 15 |
-| **[Lazard](http://www.lazard.com)** | **[2026 Chicago Restructuring Full Time Associate](https://jobright.ai/jobs/info/68d42c868c62e63bc7fe6607?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Chicago, IL | Hybrid | Oct 15 |
-| **[J.S. Held LLC](http://jsheld.com/)** | **[Analyst, IP Expert Testimony - Summer 2026](https://jobright.ai/jobs/info/68d3320717554c2d9eeee951?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Houston, TX | Hybrid | Oct 15 |
-| **[UMB Bank](https://www.umb.com)** | **[Bank Secrecy Act (BSA) / Anti-Money Laundering (AML) Analyst I (Hybrid)](https://jobright.ai/jobs/info/68d1dd0e17554c2d9eee0435?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Kansas City, MO | Hybrid | Oct 15 |
-| **[Column](https://column.com/)** | **[Payment Operations (New Grad 2025 & 2026)](https://jobright.ai/jobs/info/68ca3dd3f16e3266d28256c3?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | San Francisco, CA | On Site | Oct 15 |
-| **[Sika](http://www.sika.com/)** | **[Accounts Payable Clerk](https://jobright.ai/jobs/info/68d3479c17554c2d9eeef849?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Rutherford, NJ | On Site | Oct 15 |
-| **[April Housing](https://www.aprilhousing.com/)** | **[Investments Analyst/Sr. Analyst](https://jobright.ai/jobs/info/68b3e74ff4e41a61efd8b032?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 15 |
-| **[Capital One](http://www.capitalone.com)** | **[Operations Associate - Trade Finance TM Fulfillment](https://jobright.ai/jobs/info/68d294e88c62e63bc7fd84a5?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Wilmington, DE | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
