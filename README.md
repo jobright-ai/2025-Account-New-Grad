@@ -125,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Crum & Forster](https://www.cfins.com/)** | **[Underwriting Assistant - GL and Excess - Remote](https://jobright.ai/jobs/info/68cf9574fb49c96ca6ea995b?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Southfield, MI | Remote | Oct 15 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Underwriting Specialist](https://jobright.ai/jobs/info/68d1f1338c62e63bc7fd1622?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Atlanta, GA | On Site | Oct 15 |
 | **[Veolia North America](http://www.veolianorthamerica.com/)** | **[Staff Accountant I](https://jobright.ai/jobs/info/68d293a5f0d9af73038d96c4?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | East St Louis, IL | On Site | Oct 15 |
-| **[EisnerAmper](http://www.eisneramper.com)** | **[Portfolio Accountant](https://jobright.ai/jobs/info/67d33573e65c012957f778e3?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, United States | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
