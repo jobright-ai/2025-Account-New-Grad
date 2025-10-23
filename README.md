@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MassMutual Northwest](https://northwest.massmutual.com/)** | **[Financial Advisor](https://jobright.ai/jobs/info/6876b4c2ae2f413e4a5b2b35?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Spokane, WA | On Site | Oct 23 |
 | **[Cresset](https://cressetcapital.com/)** | **[Associate, Investment Analyst](https://jobright.ai/jobs/info/688a83189f961617fe21c446?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Chicago, IL | Hybrid | Oct 22 |
 | **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Commercial Lines Underwriter](https://jobright.ai/jobs/info/68c0b90b8e65e77df55c3e30?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Lake Elmo, MN | Hybrid | Oct 22 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Staff IT Auditor](https://jobright.ai/jobs/info/67e377a80b77ab4d70ff2c63?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, NY | Hybrid | Oct 22 |
@@ -422,10 +423,4 @@ For a complete list, click the following sortable link below:
 | **[Florida Financial Advisors](https://www.floridafa.com)** | **[Financial Advisor/Wealth Manager - Orlando, FL](https://jobright.ai/jobs/info/689f49f079a9f96662555cd8?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Orlando, FL | On Site | Oct 09 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Associate - Spring 2026 - Salinas, CA](https://jobright.ai/jobs/info/68cbb318ba798c1a501d415e?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | King City, CA | On Site | Oct 09 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Investment Banking Analyst / Business Services](https://jobright.ai/jobs/info/68cbbe5c9e3a822f5d24b66c?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Baltimore, MD | On Site | Oct 09 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Associate - Spring 2026 - Salinas, CA](https://jobright.ai/jobs/info/68ccc9eea77e5d7d744f577b?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Salinas, CA | On Site | Oct 09 |
-| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Wealth Management Associate](https://jobright.ai/jobs/info/689a602b5574fd6bc0c824b0?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | LV Metro Area | Hybrid | Oct 09 |
-| **[Adobe](http://www.adobe.com)** | **[Financial Analyst 3](https://jobright.ai/jobs/info/68aebf0b7bcb7608b3d293e3?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | San Jose, CA | On Site | Oct 09 |
-| **[First Command Financial Services, Inc.](http://www.firstcommand.com)** | **[Financial Advisor](https://jobright.ai/jobs/info/68cfe88dfb49c96ca6eac8d8?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Sacramento, CA | On Site | Oct 09 |
-| **[Vida Health](http://www.vida.com)** | **[Business Analyst- Financial Strategy](https://jobright.ai/jobs/info/68daffdb0dffed6f83d2bcd4?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | United States | Remote | Oct 09 |
-| **[Apple Bank](https://www.applebank.com)** | **[Financial Intelligence Unit Analyst](https://jobright.ai/jobs/info/68c64807db52c07d288465b7?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, NY | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
