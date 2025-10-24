@@ -398,5 +398,4 @@ For a complete list, click the following sortable link below:
 | **[Fitch Ratings](http://www.fitchratings.com)** | **[Associate Director, Technology, Media & Telecom - New York](https://jobright.ai/jobs/info/689277f7f47efe211395ca5e?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, NY | Hybrid | Oct 10 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Associate Auditor](https://jobright.ai/jobs/info/68cc5c3c7342c7623ae63231?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, NY | Hybrid | Oct 10 |
 | **[Voya Investment Management](http://investments.voya.com)** | **[IM Entry Level Analyst Program: Investment Grade Credit](https://jobright.ai/jobs/info/68ccae4916d00d2beeb22efd?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Atlanta, GA | On Site | Oct 10 |
-| **[Geller](https://www.gellerco.com/)** | **[Accounting Associate](https://jobright.ai/jobs/info/68919ab4f5ee707a15dc0718?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, NY | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
