@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[Community Development Finance Associate](https://jobright.ai/jobs/info/68ce4854dbd9fb154eddd861?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | DC-Baltimore Area | On Site | Oct 25 |
 | **[D.A. Davidson Companies](http://dadavidson.com)** | **[Public Finance Analyst, Development Finance Group](https://jobright.ai/jobs/info/68c43c54e396b25cb5c66479?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Denver, CO | On Site | Oct 25 |
 | **[MassMutual Northwest](https://northwest.massmutual.com/)** | **[Financial Advisor](https://jobright.ai/jobs/info/6876b4c2ae2f413e4a5b2b35?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Spokane, WA | On Site | Oct 23 |
 | **[Fay Servicing, LLC](http://fayservicing.com)** | **[Investor Reporting Coordinator](https://jobright.ai/jobs/info/68c0644f702aa35207aaca4e?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Chicago, IL | Hybrid | Oct 23 |
@@ -275,8 +276,4 @@ For a complete list, click the following sortable link below:
 | **[UBS](https://www.ubs.com)** | **[Wealth Strategy Associate](https://jobright.ai/jobs/info/68b0a7042d46f6396cae756b?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Bellevue, WA | On Site | Oct 12 |
 | **[First Command Financial Services, Inc.](http://www.firstcommand.com)** | **[Financial Advisor](https://jobright.ai/jobs/info/67b89409f6a17d7b8bbd31e1?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Wichita, KS | On Site | Oct 12 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Reinsurance Analyst- Morristown, NJ/Hybrid](https://jobright.ai/jobs/info/68d013c1846f0b04af68758f?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Morristown, NJ | Hybrid | Oct 12 |
-| **[Selective Insurance](https://www.selective.com/)** | **[Large Account Underwriter - Remote](https://jobright.ai/jobs/info/68ce0281e23def7af55c1226?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Tennessee, United States | Remote | Oct 12 |
-| ↳ | **[Large Account Underwriter - Remote](https://jobright.ai/jobs/info/68ce057ab2a74e1837ede7af?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Georgia, United States | Remote | Oct 12 |
-| **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[AP/AR Clerk](https://jobright.ai/jobs/info/68cdfa661ad6b16f028a06fa?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Paramus, NJ | On Site | Oct 12 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Audit or Tax Entry Level Staff](https://jobright.ai/jobs/info/68cccf77a77e5d7d744f5dd5?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
