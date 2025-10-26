@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Property and Casualty Underwriting Coordinator](https://jobright.ai/jobs/info/68c2a7565001f8077bf5cdc6?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Birmingham, AL | On Site | Oct 25 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[Community Development Finance Associate](https://jobright.ai/jobs/info/68ce4854dbd9fb154eddd861?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | DC-Baltimore Area | On Site | Oct 25 |
 | **[D.A. Davidson Companies](http://dadavidson.com)** | **[Public Finance Analyst, Development Finance Group](https://jobright.ai/jobs/info/68c43c54e396b25cb5c66479?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Denver, CO | On Site | Oct 25 |
 | **[MassMutual Northwest](https://northwest.massmutual.com/)** | **[Financial Advisor](https://jobright.ai/jobs/info/6876b4c2ae2f413e4a5b2b35?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Spokane, WA | On Site | Oct 23 |
@@ -132,7 +133,7 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Associate / 2027](https://jobright.ai/jobs/info/68d17425cece431f8b583f5b?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Melville, NY | On Site | Oct 14 |
 | **[Formation Bio](https://www.formation.bio/)** | **[Staff Accountant](https://jobright.ai/jobs/info/68d1f55117554c2d9eee19d3?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, NY | Hybrid | Oct 14 |
 | **[Luminis Health](http://www.luminishealth.org)** | **[Finance Team Member](https://jobright.ai/jobs/info/68ce5572fb49c96ca6e9f233?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Annapolis, MD | On Site | Oct 14 |
-| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Entry Level - Wealth Manager](https://jobright.ai/jobs/info/68a3bae0403ad4363b1c3408?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | San Francisco Bay Area | On Site | Oct 14 |
+| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Entry Level - Wealth Manager](https://jobright.ai/jobs/info/68a3bc2a403ad4363b1c360d?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | San Francisco Bay Area | On Site | Oct 14 |
 | ↳ | **[Entry Level - Wealth Manager](https://jobright.ai/jobs/info/689e531f83d13d1f5b6baae7?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | San Francisco Bay Area | On Site | Oct 14 |
 | **[Allianz Commercial](https://www.commercial.allianz.com/)** | **[Reinsurance Accountant](https://jobright.ai/jobs/info/68ce2db31ad6b16f028a2a8f?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Chicago, IL | Hybrid | Oct 14 |
 | **[CoBank](http://www.cobank.com/)** | **[Credit Analyst, Project Finance - Power & Renewable Energy](https://jobright.ai/jobs/info/68d19002cece431f8b58552f?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Greenwood Village, CO | Hybrid | Oct 14 |
@@ -221,5 +222,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Tax Solutions Group Entry Level Staff](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf3c?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Auburn Hills, MI | On Site | Oct 12 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Associate - Summer 2026 (St. Louis)](https://jobright.ai/jobs/info/68dadd9e6df7b8311bb135ef?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | St Louis, MO | On Site | Oct 12 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit or Tax Entry Level Staff](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206c9?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Auburn Hills, MI | On Site | Oct 12 |
-| ↳ | **[2027 International Tax Services Entry Level Staff](https://jobright.ai/jobs/info/68cbafd99e3a822f5d24a674?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Columbus, OH | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
