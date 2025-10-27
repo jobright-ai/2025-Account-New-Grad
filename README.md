@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Financial Professional](https://jobright.ai/jobs/info/67ed977fbee89c6f97364f9b?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | North Dakota, United States | Hybrid | Oct 27 |
+| ↳ | **[Financial Professional](https://jobright.ai/jobs/info/67ed977fbee89c6f97364fa1?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Edinburg, TX | On Site | Oct 27 |
+| **[Prudential Financial](http://www.prudential.com)** | **[Financial Advisor](https://jobright.ai/jobs/info/687537005cebcd1dd51beb4c?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Moline, IL | Hybrid | Oct 27 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Property and Casualty Underwriting Coordinator](https://jobright.ai/jobs/info/68c2a7565001f8077bf5cdc6?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Birmingham, AL | On Site | Oct 25 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[Community Development Finance Associate](https://jobright.ai/jobs/info/68ce4854dbd9fb154eddd861?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | DC-Baltimore Area | On Site | Oct 25 |
 | **[D.A. Davidson Companies](http://dadavidson.com)** | **[Public Finance Analyst, Development Finance Group](https://jobright.ai/jobs/info/68c43c54e396b25cb5c66479?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Denver, CO | On Site | Oct 25 |
