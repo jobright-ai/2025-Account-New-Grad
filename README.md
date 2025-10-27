@@ -215,7 +215,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Systematic Trader – Master's: 2026](https://jobright.ai/jobs/info/68cebe72846f0b04af67cab3?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, NY | On Site | Oct 13 |
 | **[Crusoe](https://crusoe.ai)** | **[Staff Accountant](https://jobright.ai/jobs/info/687ca9eded63844c944b0d30?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Denver, CO | On Site | Oct 13 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Tax Solutions Group Entry Level Staff](https://jobright.ai/jobs/info/68c8f96b95f5211cd2cec58d?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Denver, CO | On Site | Oct 13 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 International Tax Services Entry Level Staff](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206cd?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Chicago, IL | On Site | Oct 12 |
-| ↳ | **[2026 State and Local Tax (SALT) Entry Level Staff](https://jobright.ai/jobs/info/6840cd1b64a56a0da4e979de?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Denver, CO | On Site | Oct 12 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Life Underwriting Sr Specialist - Remote](https://jobright.ai/jobs/info/68ce2df41ad6b16f028a2afc?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Wisconsin, United States | Hybrid | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
