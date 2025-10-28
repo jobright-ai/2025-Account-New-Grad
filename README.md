@@ -132,6 +132,4 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Associate / 2027](https://jobright.ai/jobs/info/68d17425cece431f8b583f5b?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Melville, NY | On Site | Oct 14 |
 | **[Formation Bio](https://www.formation.bio/)** | **[Staff Accountant](https://jobright.ai/jobs/info/68d1f55117554c2d9eee19d3?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, NY | Hybrid | Oct 14 |
 | **[Luminis Health](http://www.luminishealth.org)** | **[Finance Team Member](https://jobright.ai/jobs/info/68ce5572fb49c96ca6e9f233?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Annapolis, MD | On Site | Oct 14 |
-| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Entry Level - Wealth Manager](https://jobright.ai/jobs/info/68a3bc2a403ad4363b1c360d?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | San Francisco Bay Area | On Site | Oct 14 |
-| ↳ | **[Entry Level - Wealth Manager](https://jobright.ai/jobs/info/689e531f83d13d1f5b6baae7?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | San Francisco Bay Area | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
