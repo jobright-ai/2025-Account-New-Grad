@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zurich North America](https://www.zurichna.com)** | **[Finance Development Program (Summer 2026) - Accounting Track](https://jobright.ai/jobs/info/68cd8d64b2a74e1837ed8ae1?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Schaumburg, IL | Hybrid | Oct 28 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Financial Professional](https://jobright.ai/jobs/info/67ed977fbee89c6f97364f9b?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | North Dakota, United States | Hybrid | Oct 27 |
 | ↳ | **[Financial Professional](https://jobright.ai/jobs/info/67ed977fbee89c6f97364fa1?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Edinburg, TX | On Site | Oct 27 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Financial Advisor](https://jobright.ai/jobs/info/687537005cebcd1dd51beb4c?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Moline, IL | Hybrid | Oct 27 |
@@ -133,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Luminis Health](http://www.luminishealth.org)** | **[Finance Team Member](https://jobright.ai/jobs/info/68ce5572fb49c96ca6e9f233?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Annapolis, MD | On Site | Oct 14 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Entry Level - Wealth Manager](https://jobright.ai/jobs/info/68a3bc2a403ad4363b1c360d?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | San Francisco Bay Area | On Site | Oct 14 |
 | ↳ | **[Entry Level - Wealth Manager](https://jobright.ai/jobs/info/689e531f83d13d1f5b6baae7?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | San Francisco Bay Area | On Site | Oct 14 |
-| **[Allianz Commercial](https://www.commercial.allianz.com/)** | **[Reinsurance Accountant](https://jobright.ai/jobs/info/68ce2db31ad6b16f028a2a8f?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Chicago, IL | Hybrid | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
