@@ -130,6 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Kennesaw State University](http://www.kennesaw.edu)** | **[Accounting Assistant - Bookstore](https://jobright.ai/jobs/info/68d1aba0a54edb3bf3e14bb4?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Kennesaw, GA | On Site | Oct 14 |
 | **[DESRI](https://desri.com/)** | **[Asset Management Analyst or Associate (Solar)](https://jobright.ai/jobs/info/68146434b09147c6ef25791a?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Houston, TX | On Site | Oct 14 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Associate / 2027](https://jobright.ai/jobs/info/68d17425cece431f8b583f5b?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Melville, NY | On Site | Oct 14 |
-| **[Formation Bio](https://www.formation.bio/)** | **[Staff Accountant](https://jobright.ai/jobs/info/68d1f55117554c2d9eee19d3?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, NY | Hybrid | Oct 14 |
-| **[Luminis Health](http://www.luminishealth.org)** | **[Finance Team Member](https://jobright.ai/jobs/info/68ce5572fb49c96ca6e9f233?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Annapolis, MD | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
