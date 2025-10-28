@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacoby & Meyers Accident & Injury Lawyers](https://www.jacobyandmeyers.com)** | **[Accounting Office Services Clerk](https://jobright.ai/jobs/info/68c907a0983e6768bc5559fd?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Long Beach, CA | On Site | Oct 28 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Finance Development Program (Summer 2026) - Accounting Track](https://jobright.ai/jobs/info/68cd8d64b2a74e1837ed8ae1?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Schaumburg, IL | Hybrid | Oct 28 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Financial Professional](https://jobright.ai/jobs/info/67ed977fbee89c6f97364f9b?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | North Dakota, United States | Hybrid | Oct 27 |
 | ↳ | **[Financial Professional](https://jobright.ai/jobs/info/67ed977fbee89c6f97364fa1?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Edinburg, TX | On Site | Oct 27 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Services Professional](https://jobright.ai/jobs/info/689cafa7faa4e875e8269d7a?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Chicago, IL | Hybrid | Oct 16 |
 | ↳ | **[Financial Services Professional](https://jobright.ai/jobs/info/689bba7883d13d1f5b6a3159?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Rockford, IL | Hybrid | Oct 16 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Research Associate 2026](https://jobright.ai/jobs/info/68ca39a5f61c922772a7570a?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Richmond, VA | On Site | Oct 16 |
-| **[Suntory Global Spirits](https://www.suntoryglobalspirits.com)** | **[Staff Accountant - Corporate Accounting](https://jobright.ai/jobs/info/68d495c8ffc1276de3fdc3a6?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Chicago, IL | Hybrid | Oct 16 |
 | **[Northmarq](http://www.northmarq.com)** | **[Commercial Insurance Analyst I - Commercial Real Estate Finance](https://jobright.ai/jobs/info/68b70b75f4e41a61efd95334?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Minneapolis, MN | Hybrid | Oct 16 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Professional](https://jobright.ai/jobs/info/68c04bc95c5d5f14f46dc601?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, NY | On Site | Oct 16 |
 | **[Montage International](https://www.montageinternational.com)** | **[Accounts Payable Specialist - CORP](https://jobright.ai/jobs/info/68d445ca8c62e63bc7fe7826?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Irvine, CA | On Site | Oct 16 |
