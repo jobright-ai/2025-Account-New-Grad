@@ -93,5 +93,4 @@ For a complete list, click the following sortable link below:
 | **[Bates White Economic Consulting](http://www.bateswhite.com/)** | **[Economist](https://jobright.ai/jobs/info/68cd63ce1ad6b16f02899061?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Washington, DC | Hybrid | Oct 15 |
 | **[Gelfand, Rennert & Feldman, LLC](https://www.grfllp.com/)** | **[Bookkeeper](https://jobright.ai/jobs/info/68d2d6f317554c2d9eeeabe0?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | White Plains, NY | Hybrid | Oct 15 |
 | **[AIG](https://www.aig.com/)** | **[Trade Credit Underwriter – Client Management](https://jobright.ai/jobs/info/68cdaff4e23def7af55be0e7?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, NY | On Site | Oct 15 |
-| **[Withum](http://www.withum.com)** | **[Audit / Entry Level Payroll Auditor](https://jobright.ai/jobs/info/68b65ff2f4e41a61efd927de?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | San Ramon, CA | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
