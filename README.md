@@ -87,5 +87,4 @@ For a complete list, click the following sortable link below:
 | **[Montage International](https://www.montageinternational.com)** | **[Accounts Payable Specialist - CORP](https://jobright.ai/jobs/info/68d445ca8c62e63bc7fe7826?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Irvine, CA | On Site | Oct 16 |
 | **[PENNYMAC](https://www.pennymac.com)** | **[Analyst, Valuations & Interest Rate Sensitive Investments](https://jobright.ai/jobs/info/68b7a9342124650c14024c4d?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Westlake Village, CA | On Site | Oct 16 |
 | **[Alorica](http://www.alorica.com)** | **[Accounting/Bookkeeping Customer Service -Onsite](https://jobright.ai/jobs/info/6841d9cd4f4ddf4310b1e5c7?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Tucson, AZ | On Site | Oct 16 |
-| **[STO Building Group](https://stobuildinggroup.com)** | **[Project Accountant](https://jobright.ai/jobs/info/68d333d18c62e63bc7fde9ee?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | San Francisco, CA | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
