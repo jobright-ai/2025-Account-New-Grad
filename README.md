@@ -532,8 +532,8 @@ For a complete list, click the following sortable link below:
 | **[Bankers Life](https://www.bankerslife.com)** | **[Financial Services Professional - Eugene, OR](https://jobright.ai/jobs/info/680016143ef1558b3b918f46?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Eugene, OR | Hybrid | Oct 08 |
 | ↳ | **[Financial Services Professional - Waltham, MA](https://jobright.ai/jobs/info/680016143ef1558b3b91894e?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Waltham, MA | Hybrid | Oct 08 |
 | ↳ | **[Financial Services Professional - Schaumburg, IL](https://jobright.ai/jobs/info/680016143ef1558b3b918955?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Schaumburg, IL | Hybrid | Oct 08 |
-| ↳ | **[Financial Services Professional - Madison, WI](https://jobright.ai/jobs/info/680016143ef1558b3b918f3a?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Madison, WI | Hybrid | Oct 08 |
 | ↳ | **[Financial Services Professional - Greenville, SC](https://jobright.ai/jobs/info/680016143ef1558b3b918f51?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Greenville, SC | Hybrid | Oct 08 |
+| ↳ | **[Financial Services Professional - Madison, WI](https://jobright.ai/jobs/info/680016143ef1558b3b918f3a?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Madison, WI | Hybrid | Oct 08 |
 | ↳ | **[Financial Services Professional - San Luis Obispo, CA](https://jobright.ai/jobs/info/68c665717d0db41142739b0a?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | San Luis Obispo, CA | On Site | Oct 08 |
 | ↳ | **[Financial Services Professional - Beaumont, TX](https://jobright.ai/jobs/info/680016143ef1558b3b918f2a?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Beaumont, TX | Hybrid | Oct 08 |
 | ↳ | **[Financial Services Professional - Traverse City, MI](https://jobright.ai/jobs/info/68ce92d6846f0b04af67b2d0?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Traverse City, MI | On Site | Oct 08 |
@@ -579,8 +579,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Services Professional - Salt Lake City, UT](https://jobright.ai/jobs/info/680016143ef1558b3b918f29?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Salt Lake City, UT | Hybrid | Oct 08 |
 | ↳ | **[Financial Services Professional - Salisbury, MD](https://jobright.ai/jobs/info/680016143ef1558b3b918f93?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Salisbury, MD | Hybrid | Oct 08 |
 | ↳ | **[Financial Services Professional - New Bern, NC](https://jobright.ai/jobs/info/680016143ef1558b3b918f23?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New Bern, NC | Hybrid | Oct 08 |
-| ↳ | **[Financial Services Professional - Ionia, MI](https://jobright.ai/jobs/info/680016143ef1558b3b9188ea?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Ionia, MI | Hybrid | Oct 08 |
 | ↳ | **[Financial Services Professional - Allentown, PA](https://jobright.ai/jobs/info/680016143ef1558b3b918f16?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Allentown, PA | Hybrid | Oct 08 |
+| ↳ | **[Financial Services Professional - Ionia, MI](https://jobright.ai/jobs/info/680016143ef1558b3b9188ea?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Ionia, MI | Hybrid | Oct 08 |
 | ↳ | **[Financial Services Professional - Savannah, GA](https://jobright.ai/jobs/info/680016143ef1558b3b918f10?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Savannah, GA | Hybrid | Oct 08 |
 | ↳ | **[Financial Services Professional - Fredericksburg, VA](https://jobright.ai/jobs/info/680016143ef1558b3b918ec6?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Fredericksburg, VA | Hybrid | Oct 08 |
 | ↳ | **[Financial Services Professional - Clermont, FL](https://jobright.ai/jobs/info/680016143ef1558b3b918efc?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Clermont, FL | Hybrid | Oct 08 |
@@ -708,6 +708,4 @@ For a complete list, click the following sortable link below:
 | **[Prudential Financial](http://www.prudential.com)** | **[Financial Planner](https://jobright.ai/jobs/info/664bf1e3db4e93128f9f29d9?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Lincoln County, NE | Hybrid | Sep 30 |
 | ↳ | **[Financial Planner](https://jobright.ai/jobs/info/66fb1578abb1c18dbd36b551?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Omaha, NE | Hybrid | Sep 30 |
 | ↳ | **[Financial Planner](https://jobright.ai/jobs/info/664bb9b8d9a8ae163c70ce56?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Bentonville, AR | Hybrid | Sep 30 |
-| ↳ | **[Financial Planner](https://jobright.ai/jobs/info/664bc865d36abf64e2376b4e?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Topeka, KS | Hybrid | Sep 30 |
-| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Entry Level - Wealth Manager](https://jobright.ai/jobs/info/6813b3fcd378972d5c29e008?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | New York, NY | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
