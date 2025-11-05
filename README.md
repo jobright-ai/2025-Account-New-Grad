@@ -264,8 +264,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Services Professional - Eugene, OR](https://jobright.ai/jobs/info/680016143ef1558b3b918f46?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Eugene, OR | Hybrid | Oct 08 |
 | ↳ | **[Financial Services Professional - Waltham, MA](https://jobright.ai/jobs/info/680016143ef1558b3b91894e?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Waltham, MA | Hybrid | Oct 08 |
 | ↳ | **[Financial Services Professional - Schaumburg, IL](https://jobright.ai/jobs/info/680016143ef1558b3b918955?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Schaumburg, IL | Hybrid | Oct 08 |
-| ↳ | **[Financial Services Professional - Madison, WI](https://jobright.ai/jobs/info/680016143ef1558b3b918f3a?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Madison, WI | Hybrid | Oct 08 |
 | ↳ | **[Financial Services Professional - Greenville, SC](https://jobright.ai/jobs/info/680016143ef1558b3b918f51?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Greenville, SC | Hybrid | Oct 08 |
+| ↳ | **[Financial Services Professional - Madison, WI](https://jobright.ai/jobs/info/680016143ef1558b3b918f3a?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Madison, WI | Hybrid | Oct 08 |
 | ↳ | **[Financial Services Professional - San Luis Obispo, CA](https://jobright.ai/jobs/info/68c665717d0db41142739b0a?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | San Luis Obispo, CA | On Site | Oct 08 |
 | ↳ | **[Financial Services Professional - Beaumont, TX](https://jobright.ai/jobs/info/680016143ef1558b3b918f2a?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Beaumont, TX | Hybrid | Oct 08 |
 | ↳ | **[Financial Services Professional - Traverse City, MI](https://jobright.ai/jobs/info/68ce92d6846f0b04af67b2d0?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Traverse City, MI | On Site | Oct 08 |
@@ -382,5 +382,4 @@ For a complete list, click the following sortable link below:
 | **[Bankers Life](https://www.bankerslife.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/689b63df83d13d1f5b69ff4c?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Schaumburg, IL | Hybrid | Oct 06 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Financial Services Professional](https://jobright.ai/jobs/info/689a119683d13d1f5b695d3c?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Miami-FTL Area | Hybrid | Oct 06 |
 | ↳ | **[Financial Professional](https://jobright.ai/jobs/info/671bc5b2112e2a67607a7558?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Fort Lauderdale, FL | Hybrid | Oct 06 |
-| **[Prudential Financial](http://www.prudential.com)** | **[Financial Professional](https://jobright.ai/jobs/info/6874ed1dae2f413e4a5a1cf4?utm_campaign=Accounting%20and%20Finance&utm_source=1103)** | Queens, NY | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
